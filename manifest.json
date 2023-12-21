@@ -1,0 +1,59 @@
+{
+  "name": "YTB Theme Changer",
+  "version": "1.1.3",
+  "description": "Changes the theme of YTB",
+  "manifest_version": 3,
+  "icons": {
+    "16": "/images/icon-16.png",
+    "48": "/images/icon-48.png",
+    "128": "/images/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "matches": [
+        "https://www.youtube.com/*"
+
+      ],
+      "css": [
+        "main.css"
+      ],
+      "js": [
+        "content.js",
+        "src/lib/jquery-3.5.1.min.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/anh.png"
+      ],
+      "matches": [
+        "https://www.youtube.com/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+    },
+    "default_popup": "src/popup/index.html"
+  },
+  "permissions": [
+    "scripting",
+    "management",
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
