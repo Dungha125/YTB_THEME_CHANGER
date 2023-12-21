@@ -58,4 +58,4 @@ This extension is licensed under the [MIT License](https://github.com/git/git-sc
 >Nếu thấy hay hãy cho mình xin một ⭐️ và đừng ngần ngại nhắn tin cho mình nếu có bug nhé!!!
 
 ##
-> ⭐️ From Shodydosh
+> ⭐️ From Dungha
