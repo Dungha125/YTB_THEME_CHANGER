@@ -9,7 +9,7 @@
 
 > [1.1.0]: Toggle switch inside codeptit if the extension is enable
 
-![image](https://user-images.githubusercontent.com/87895460/227594812-46d88f20-9361-4817-93f0-a1dc492e7958.png)
+![image](/images/giaodien1.png)
 
 
 ## First look:

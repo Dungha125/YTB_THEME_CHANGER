@@ -145,6 +145,57 @@ select, input {
 #themeChanger .sbsb_a {
     background: linear-gradient(0deg, rgba(0,32,54,1) 0%, rgba(2,90,98,1) 100%);
 }
+#themeChanger #channel-header.ytd-c4-tabbed-header-renderer {
+    background-color: #ffffff00;
+    width: 100%;
+    padding: 16px 107px 4px;
+    position: relative;
+    z-index: 1;
+    min-width: 0;
+    border-radius: 10px;
+    -webkit-box-shadow: 2px 11px 67px -24px rgba(0,0,0,0.7);
+    -moz-box-shadow: 2px 11px 67px -24px rgba(0,0,0,0.7);
+    box-shadow: 2px 11px 67px -24px rgba(0,0,0,0.7);
+
+}
+#themeChanger #channel-container.ytd-c4-tabbed-header-renderer,
+#themeChanger #tabs-container.ytd-c4-tabbed-header-renderer,
+#themeChanger #tabs-inner-container.ytd-c4-tabbed-header-renderer
+{
+    background-color: transparent;    
+}
+
+#themeChanger .style-scope .ytd-popup-container
+{
+        outline: none;
+        box-sizing: border-box;
+        border-radius: 10px;
+        max-width: 300px;
+        max-height: 740px;
+        background: #203752;
+}
+
+#themeChanger .style-scope .ytd-app
+{
+    background: #203752;
+}
+#themeChanger .style-scope .ytd-mini-guide-renderer
+{
+    display: inline-block;
+    position: relative;
+    background-color: #203752;
+    border-radius: 10px;
+}
+#themeChanger #right-arrow-button.ytd-feed-filter-chip-bar-renderer {
+    background-color: #5c7687;
+    display: flexbox;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#themeChanger #right-arrow.ytd-feed-filter-chip-bar-renderer:before {
+    background: linear-gradient(to left,#5c7687 10%,rgba(33,33,33,0) 90%);
+}
 #themeChanger .status,
 #themeChanger .nav,
 #themeChanger .historywork {
