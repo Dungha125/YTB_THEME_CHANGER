@@ -2,7 +2,7 @@
 
  <img align="left" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
  <img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
-  <h1 align="center"> Dracula Theme Chrome Extension for Codeptit </h1>
+  <h1 align="center"> Youtube Theme Chrome Extension </h1>
  </div>
              
 ##
@@ -58,4 +58,4 @@ This extension is licensed under the [MIT License](https://github.com/git/git-sc
 >Nếu thấy hay hãy cho mình xin một ⭐️ và đừng ngần ngại nhắn tin cho mình nếu có bug nhé!!!
 
 ##
-> ⭐️ From Shodydosh
+> ⭐️ From Dungha
