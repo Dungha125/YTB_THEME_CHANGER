@@ -24,25 +24,6 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
   </details>
-  <details>
-     <summary>💻 Screenshots </summary>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227592001-82e88e5e-4450-4d31-8bed-95fc0adde8d4.png" width = 100%>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227591520-9bd6d1a6-6a57-4f91-a3b6-3dfecd41c781.png" width = 100%>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    
-  </details>
-  <details>
-     <summary>💻 Screenshots </summary>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227591321-5cd4a85c-c6b3-4bb8-a0d7-ddb279999bfe.png" width = 100%>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227590634-99804239-9f73-4a78-863b-24c327b19bb1.png" width = 100%>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    
-    
-  </details>
 </div>
 
 
