@@ -17,10 +17,10 @@
 <div>
   <details>
      <summary>💻 Screenshots </summary>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="/images/Screenshot 1.png"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227592223-0e861480-74f8-42bf-92a3-66ce1c692313.png" width = 100%>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="/images/Screenshot 2.png"></a>
-    <img src = "https://user-images.githubusercontent.com/87895460/227591775-aca00b87-e177-4849-9035-df74df7b386a.png" width = 100%>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <img src = "/images/Screenshot 1.png" width = 100%>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <img src = "/images/Screenshot 2.png" width = 100%>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
   </details>
